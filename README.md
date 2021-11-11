@@ -1,4 +1,4 @@
-# habita
+# Boilerplate Nuxt.js
 
 ## Build Setup
 
